@@ -84,4 +84,4 @@ This project was designed for a library “show and tell” session to teach kid
 MIT License – open for educational and public showcase use.
 🙌 Author
 
-Created by [Your Name]
+Created by Daniel Christadoss using collaborative ai.
